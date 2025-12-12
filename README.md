@@ -1,59 +1,76 @@
 # 👋 Sergio Delgado  
+**QA Automation · Data · DevOps · IA aplicada**
 
-Ingeniero civil industrial y científico de datos con más de 25 años cruzando **infraestructura hídrica**, **sistemas complejos**, **automatización** e **IA generativa**.  
-Diseño modelos de transformación digital y cultural que funcionen en el mundo real: con métricas, trazabilidad y gobernanza.
-
-También construyo universos narrativos techno-filosóficos, porque la vida es muy corta para pensar en una sola capa de realidad.
+Ingeniero civil industrial y científico de datos con +25 años trabajando en **sistemas complejos e infraestructura crítica**, hoy enfocado en **calidad de software, automatización e integración pragmática de IA**.
 
 ---
 
-## 🚀 Qué estoy construyendo
+## ⚙️ Perfil técnico (TL;DR)
 
-### **AG Resonancias del Biobío (AG RBB)**  
-Asociación gremial que impulsa **gobernanza cultural basada en datos** en el ecosistema de música electrónica y arte disidente del Biobío.  
-**Rol:** Jefe de Gestión, Planificación y Presupuesto (GPP) y liderazgo del proyecto **FIRMA AG RBB**.
-
-### **BIOBÍO.VERSO**  
-Plataforma transmedia que une **arte, territorio y sostenibilidad**, articulando proyectos, datos y relatos culturales del Biobío.
-
-### **Xexe Quantum**  
-Universo narrativo posthumano que explora **IA, filosofía, sistemas simbólicos y cultura techno**.  
-Incluye diseño de un **Concierto de Resonancia**, un **sistema de combate cuántico** y artefactos narrativos distribuidos en distintos medios.
+- **Rol:** QA Automation / Data / Transformación Digital  
+- **Enfoque:** calidad desde el diseño, sistemas reproducibles, métricas y gobernanza  
+- **Contexto:** proyectos reales, equipos pequeños, presupuesto acotado  
 
 ---
 
-## 🧠 Áreas donde aporto valor
+## 🧰 Stack principal
 
-### Tecnología & Datos
-- Ciencia de datos aplicada y analítica para decisión estratégica  
-- Automatización de procesos (Python, Supabase, no/low-code)  
-- QA / DevOps: Cypress, Playwright, Selenium, CI/CD, Docker  
-- Diseño de RAG y agentes de IA con prompts estructurados (CRTF), evaluación y enfoque ético
+### Lenguajes & Datos
+- Python  
+- SQL (PostgreSQL / Supabase)  
+- TypeScript / JavaScript  
 
-### Transformación Digital
-- Diseño de sistemas colaborativos y gobernanza basada en datos  
-- Estrategias de transformación digital con foco en impacto medible (KPIs, OKRs, SLIs/SLOs)  
-- Integración de IA en procesos existentes con criterios de trazabilidad, seguridad y costo/beneficio
+### Web & Backend
+- Next.js (App Router)  
+- APIs REST  
+- Autenticación, autorización y Row Level Security (RLS)  
 
-### Cultura & Narrativa
-- Creación de narrativas tecnoculturales y productos transmedia  
-- Storytelling filosófico para proyectos tecnológicos y culturales  
-- Diseño de marcos conceptuales para pensar IA, territorio y subjetividad
+### QA / Testing
+- Cypress (E2E)  
+- Playwright, Selenium (experiencia)  
+- Postman / Newman (API testing)  
+- Diseño de matrices de prueba  
+- Testing integrado a CI/CD  
+
+### DevOps / Plataforma
+- Git / GitHub (branches, PRs, code review)  
+- GitHub Actions  
+- Docker / Docker Compose  
+- Vercel + Supabase (BaaS)  
+
+### IA aplicada
+- RAG (Supabase + embeddings)  
+- Prompts estructurados (CRTF)  
+- Agentes orientados a tareas  
+- Evaluación, trazabilidad y enfoque ético  
 
 ---
 
-## 💻 Proyectos en GitHub (selección)
+## 🚀 Proyectos técnicos destacados
 
-- **mvp-qa-ag-rbb**  
-  MVP de **Buzón de Sugerencias** para AG RBB.  
-  Stack: Next.js + TypeScript + Supabase + Cypress.  
-  Foco en autenticación, RLS, pruebas E2E y preparación para CI/CD.
+### `mvp-qa-ag-rbb`
+MVP de **Buzón de Sugerencias** con foco en calidad y gobernanza.
 
-- **sergio-site**  
-  Portafolio profesional publicado en Vercel, donde integro trayectoria, proyectos y presencia digital.  
-  Base para seguir experimentando con buenas prácticas de frontend, accesibilidad y automatización.
+**Stack:**  
+Next.js · TypeScript · Supabase · Cypress · Docker · GitHub Actions  
 
-- Otros repositorios en desarrollo y experimentación con IA, QA y narrativa:  
+**Qué demuestra:**
+- Autenticación y RLS bien definidas  
+- Pruebas E2E UI + API  
+- Preparación para CI/CD  
+- Documentación QA por fases (F1–F4)  
+- Calidad integrada desde el diseño  
+
+---
+
+### `sergio-site`
+Portafolio profesional desplegado en Vercel.
+
+- Buenas prácticas de frontend  
+- Accesibilidad  
+- Base para automatización y QA 
+
+👉 Ver repositorios públicos en GitHub:  
   [Ver proyectos destacados en GitHub](https://github.com/sergiodelgado?tab=repositories)
 
 ---
@@ -67,14 +84,55 @@ Incluye diseño de un **Concierto de Resonancia**, un **sistema de combate cuán
 
 ---
 
-## 🤝 Cómo colaborar conmigo
+## ⬇️ Narrativa y visión (para quien quiera ir más abajo)
 
-Me interesa trabajar en proyectos donde se crucen:
+### Qué hago, más allá del stack
 
-- IA aplicada + gobernanza y métricas reales  
-- Cultura, territorio y datos (mapas de impacto, redes, trazabilidad)  
-- Infraestructura crítica y automatización inteligente  
-- Narrativas tecnológicas, filosofía y estética sonora (techno, experimental, híbridos)
+Diseño **modelos de transformación digital y cultural que funcionan en el mundo real**:  
+con métricas claras, trazabilidad técnica y decisiones gobernables.
+
+Vengo de la ingeniería dura (infraestructura hídrica, sistemas críticos) y llevo esa lógica a:
+
+- plataformas digitales pequeñas pero sostenibles  
+- procesos automatizados que reducen fricción  
+- uso de IA sin hype, con responsabilidad técnica  
+
+---
+
+### Proyectos narrativos y culturales
+
+#### AG Resonancias del Biobío (AG RBB)
+Asociación gremial que impulsa **gobernanza cultural basada en datos** en el ecosistema de música electrónica y arte disidente del Biobío.
+
+**Rol:**  
+Jefe de Gestión, Planificación y Presupuesto (GPP)  
+Líder del proyecto FIRMA AG RBB  
+
+---
+
+#### BIOBÍO.VERSO
+Plataforma **transmedia** que conecta arte, territorio y sostenibilidad, integrando datos, relatos y proyectos culturales.
+
+---
+
+#### Xexe Quantum
+Universo narrativo posthumano sobre IA, filosofía y cultura techno.
+
+Incluye:
+- Concierto de Resonancia  
+- Sistema de combate cuántico  
+- Artefactos narrativos distribuidos  
+
+---
+
+### En qué tipo de proyectos colaboro
+
+Me interesan cruces reales entre:
+
+- IA aplicada + métricas y gobernanza  
+- QA / automatización como cultura, no como parche  
+- Datos, territorio y toma de decisiones  
+- Narrativa tecnológica y estética sonora (techno, experimental)  
 
 ---
 
@@ -88,7 +146,8 @@ La forma más sencilla de contactarme es a través del formulario de mi sitio we
 
 ## 📚 Nota personal
 
-Estoy desarrollando un manifiesto filosófico-técnico:  
-**“Ingeniería del Ser: un manifiesto estoico-posthumano para pensar con máquinas y morir con estilo”.**  
+Estoy escribiendo un manifiesto técnico-filosófico:
 
-Si esto te resuena, probablemente podamos construir algo interesante juntos.
+**“Ingeniería del Ser: un manifiesto estoico-posthumano para pensar con máquinas y morir con estilo”.**
+
+Si llegaste hasta aquí, probablemente podamos construir algo interesante.
