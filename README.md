@@ -63,6 +63,22 @@ Next.js · TypeScript · Supabase · Cypress · Docker · GitHub Actions
 
 ---
 
+### `ml-ensambles-desafio-1`
+Proyecto de **Machine Learning aplicado** orientado a detección temprana de *churn* en telecomunicaciones mediante modelos de **ensamble**.
+
+**Stack:**  
+Python · scikit-learn · imbalanced-learn · Jupyter / Google Colab  
+
+**Qué demuestra:**
+- Exploración y análisis de datos orientado a negocio  
+- Árboles de decisión, bagging homogéneo y heterogéneo  
+- Manejo de desbalance de clases con SMOTE  
+- Optimización de hiperparámetros (Grid Search + CV)  
+- Evaluación con métricas relevantes (f1-score, precision, recall)  
+- Enfoque en interpretabilidad y reporte técnico reproducible  
+
+---
+
 ### `sergio-site`
 Portafolio profesional desplegado en Vercel.
 
